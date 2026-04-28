@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Clean Architecture Coder"
+  short_description: "AI coding standards for clean Python architecture"
+  default_prompt: "Use $python-clean-architecture-coder to implement Python code that follows clean architecture, testing, logging, error handling, style, and tool standards."
